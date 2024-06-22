@@ -1,0 +1,3 @@
+[submodule "sim/oscillator"]
+	path = sim/oscillator
+	url = https://github.com/CallumRodgers/oscillator.git
